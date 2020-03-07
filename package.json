@@ -1,0 +1,14 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "description": "购物商城",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "conghui.wang",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
